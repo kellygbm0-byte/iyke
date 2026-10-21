@@ -2,5 +2,7 @@
   "name": "Veritas TV - Free Live Sports, Movies & Faith",
   "description": "Iyke TV: Live football transmissions from Sky Sports, TNT Sports, DAZN, beIN Sports, SuperSport, and Christian faith television.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
